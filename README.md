@@ -1,3 +1,5 @@
+![Image](https://github.com/fahimbabarpatel/rust_webassembly_sample/blob/main/rust_web.png)
+
 #### get the necessary cargo stuff
 cargo install wasm-pack
 
